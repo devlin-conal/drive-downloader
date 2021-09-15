@@ -1,8 +1,19 @@
+# Untitled
+
+## Getting Super Powers
+
+Becoming a super hero is a fairly straight forward process:
+
+```
+$ give me super-powers
+```
+
+```javascript
 // The Browser API key obtained from the Google API Console.
-const developerKey = 'AIzaSyClrP2axh-pacftishXhXbG56HUqv21C-0';
+const developerKey = 'AIzaSyCzVvGJh74YBCe0XLRx3rSbiviB_zvugLE';
 
 // The Client ID obtained from the Google API Console. Replace with your own Client ID.
-const clientId = '633588059797-gih056j0ngk4umgp0qpetifoiofsfbij.apps.googleusercontent.com';
+const clientId = '764781418716-tgrmk858t8ktlaiaen6ha7f8a3l9bt14.apps.googleusercontent.com';
 
 // Scope to use to access user's google drive files.
 const scope = 'https://www.googleapis.com/auth/drive.file';
@@ -105,3 +116,14 @@ function pickerCallback(data) {
         });
     }
 }
+```
+
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
+
+
+
